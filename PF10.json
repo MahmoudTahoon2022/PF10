@@ -1,0 +1,9 @@
+{
+  "devices": {
+    "PF10": {
+      "version": "1.1",
+      "bin": "https://raw.githubusercontent.com/MahmoudTahoon2022/PF10/main/1.1.bin",
+      "force": false
+    }
+  }
+}
